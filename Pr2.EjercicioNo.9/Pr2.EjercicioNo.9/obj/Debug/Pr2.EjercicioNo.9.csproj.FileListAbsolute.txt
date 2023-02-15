@@ -1,8 +1,0 @@
-C:\Users\user\source\repos\Pr2.EjercicioNo.9\Pr2.EjercicioNo.9\bin\Debug\Pr2.EjercicioNo.9.exe.config
-C:\Users\user\source\repos\Pr2.EjercicioNo.9\Pr2.EjercicioNo.9\bin\Debug\Pr2.EjercicioNo.9.exe
-C:\Users\user\source\repos\Pr2.EjercicioNo.9\Pr2.EjercicioNo.9\bin\Debug\Pr2.EjercicioNo.9.pdb
-C:\Users\user\source\repos\Pr2.EjercicioNo.9\Pr2.EjercicioNo.9\obj\Debug\Pr2.EjercicioNo.9.csproj.AssemblyReference.cache
-C:\Users\user\source\repos\Pr2.EjercicioNo.9\Pr2.EjercicioNo.9\obj\Debug\Pr2.EjercicioNo.9.csproj.SuggestedBindingRedirects.cache
-C:\Users\user\source\repos\Pr2.EjercicioNo.9\Pr2.EjercicioNo.9\obj\Debug\Pr2.EjercicioNo.9.csproj.CoreCompileInputs.cache
-C:\Users\user\source\repos\Pr2.EjercicioNo.9\Pr2.EjercicioNo.9\obj\Debug\Pr2.EjercicioNo.9.exe
-C:\Users\user\source\repos\Pr2.EjercicioNo.9\Pr2.EjercicioNo.9\obj\Debug\Pr2.EjercicioNo.9.pdb
